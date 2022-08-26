@@ -1,2 +1,2 @@
 # Bandit
-Bandit exercise walkthrough
+Bandit exercise walkthrough, refer the notes file
